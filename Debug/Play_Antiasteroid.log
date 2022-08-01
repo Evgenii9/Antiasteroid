@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(29,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(38,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(69,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(69,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(83,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(130,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(130,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(176,39): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(199,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(199,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(208,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(208,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(221,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(221,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(251,22): warning C4305: +=: усечение из "double" в "float"
+C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\main.cpp(272,24): warning C4305: +=: усечение из "double" в "float"
+  Play_Antiasteroid.vcxproj -> C:\Users\ПК\Desktop\Programming_Project\Lesson\Play\Play_Antiasteroid\Debug\Play_Antiasteroid.exe
